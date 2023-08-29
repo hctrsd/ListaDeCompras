@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name= "bienvenido"> Welcome </string>
+    <string name="agregar"> Add Your Purchases </string>
+    <string name="crear"> +Create </string>
+</resources>
